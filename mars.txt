@@ -1,2 +1,3 @@
 This file contains information about mars
 Mars is red and is about half the size of Earth
+I have made a decision to consider Venus as a base.
